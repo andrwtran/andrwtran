@@ -1,6 +1,6 @@
 ### Hi there! I'm Andrew. 👋
 
-I'm a lawyer turned software engineer. I'm passionate about learning and solving problems.
+I'm a lawyer turned software engineer, passionate about learning and solving problems.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrwtran&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
